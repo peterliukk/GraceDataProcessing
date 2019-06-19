@@ -1,0 +1,2 @@
+'Degree:'                     100
+'File for outputting:'        CartesianCoordinateLegendre.txt
