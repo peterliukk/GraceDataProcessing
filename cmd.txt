@@ -1,0 +1,7 @@
+'degree this programme will compute:'            30
+'names of the files that will be used:'          D:\Users\AOD1B_RL06\FILENAME.txt
+'the date beginning:'                            2004-01-01
+'days:'                                          1
+'sampling interval(hour):'                       3
+
+---------------------------INTRODUCTION-------------------------------
